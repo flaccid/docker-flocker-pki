@@ -16,8 +16,6 @@ A data container that generates and stores the PKI for a Flocker cluster.
 
     $ docker push flaccid/flocker-pki
 
-Drops to a shell only.
-
 License and Authors
 -------------------
 - Author: Chris Fordham (<chris@fordham-nagy.id.au>)
